@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "No Make Up",
+  "base_artist": "Zion.T",
+  "createdAt": "2026-02-13T13:51:14.119668Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "No Make-Up (Her Vice)",
+      "artist": "Kendrick Lamar",
+      "has_synced": true,
+      "path": "select/01_No_Make-Up_(Her_Vice)_Kendrick_Lamar.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "No Make-Up (Her Vice)",
+      "artist": "Kendrick Lamar feat. Colin Munroe",
+      "has_synced": true,
+      "path": "select/02_No_Make-Up_(Her_Vice)_Kendrick_Lamar_feat._Colin_Munroe.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "No Make Up",
+      "artist": "Zion.T",
+      "has_synced": true,
+      "path": "select/03_No_Make_Up_Zion.T.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "No Make-Up (Her Vice) [Feat. Colin Munroe]",
+      "artist": "Kendrick Lamar",
+      "has_synced": true,
+      "path": "select/04_No_Make-Up_(Her_Vice)_[Feat._Colin_Munroe]_Kendrick_Lamar.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "No Make-Up (Her Vice)",
+      "artist": "Kendrick Lamar, Colin Munroe",
+      "has_synced": true,
+      "path": "select/05_No_Make-Up_(Her_Vice)_Kendrick_Lamar,_Colin_Munroe.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "No Make Up",
+      "artist": "Bilal Saeed feat. Bohemia",
+      "has_synced": true,
+      "path": "select/06_No_Make_Up_Bilal_Saeed_feat._Bohemia.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "No Make Up",
+      "artist": "Bilal Saeed, Bohemia",
+      "has_synced": true,
+      "path": "select/07_No_Make_Up_Bilal_Saeed,_Bohemia.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "No Make-Up (Her Vice) (feat. Colin Munroe) (prod. Sounwave)",
+      "artist": "Kendrick Lamar",
+      "has_synced": true,
+      "path": "select/08_No_Make-Up_(Her_Vice)_(feat._Colin_Munroe)_(prod._Sounwave)_Kendrick_Lamar.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "No Make Up",
+      "artist": "Lil Berete feat. JoEazy",
+      "has_synced": true,
+      "path": "select/09_No_Make_Up_Lil_Berete_feat._JoEazy.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "No Make Up (feat. JoEazy)",
+      "artist": "Lil Berete",
+      "has_synced": true,
+      "path": "select/10_No_Make_Up_(feat._JoEazy)_Lil_Berete.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "No Make-Up",
+      "artist": "Kendrick Lamar",
+      "has_synced": true,
+      "path": "select/11_No_Make-Up_Kendrick_Lamar.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "No Make Up",
+      "artist": "BILAL SAEED & Bloodline",
+      "has_synced": true,
+      "path": "select/12_No_Make_Up_BILAL_SAEED_&_Bloodline.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "No Make-Up (Her Vice) (feat. Colin Munroe)",
+      "artist": "Kendrick Lamar feat. Colin Munroe",
+      "has_synced": true,
+      "path": "select/13_No_Make-Up_(Her_Vice)_(feat._Colin_Munroe)_Kendrick_Lamar_feat._Colin_Munroe.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "No Make-Up (Her Vice) (feat. Colin Munroe)",
+      "artist": "Kendrick Lamar/Colin Munroe",
+      "has_synced": true,
+      "path": "select/14_No_Make-Up_(Her_Vice)_(feat._Colin_Munroe)_Kendrick_Lamar_Colin_Munroe.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "No Make-Up (Her Vice)",
+      "artist": "Kendrick Lamar",
+      "has_synced": true,
+      "path": "select/15_No_Make-Up_(Her_Vice)_Kendrick_Lamar.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "No Make Up",
+      "artist": "BILAL SAEED",
+      "has_synced": true,
+      "path": "select/16_No_Make_Up_BILAL_SAEED.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "No Make-Up",
+      "artist": "Kendrick Lamar/Colin Munroe",
+      "has_synced": true,
+      "path": "select/17_No_Make-Up_Kendrick_Lamar_Colin_Munroe.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "No Make Up",
+      "artist": "Zion.T",
+      "has_synced": true,
+      "path": "select/18_No_Make_Up_Zion.T.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "No Make Up",
+      "artist": "Zion.T",
+      "has_synced": false,
+      "path": "select/pl_01_No_Make_Up_Zion.T.txt"
+    }
+  ]
+}
